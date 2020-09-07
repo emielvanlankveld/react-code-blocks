@@ -27,7 +27,6 @@
   - [✨ Demo](#-demo)
 - [Install](#install)
 - [Usage](#usage)
-- [Using in Gatsby and MDX](MDX.md)
 - [Components](#components)
   - [CodeBlock](#codeblock)
     - [Props](#props)
@@ -177,8 +176,8 @@ If you're looking for some more maintained solutions, I'd suggest the following:
 - [x] Supported Themes documentation
 - [x] Supported Languages documentation
 - [x] Add a License
-- [x] Docs for usage with GatsbyJS
-- [x] Docs for usage with `MDX`
+- [ ] Docs for usage with GatsbyJS
+- [ ] Docs for usage with `MDX`
 - [ ] Contributor guide for development
 - [ ] Contributor guide for adding themes
 - [ ] Contributor guide for adding languages
