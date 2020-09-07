@@ -26,8 +26,6 @@
     "test": "tsdx test --passWithNoTests",
     "lint": "tsdx lint",
     "prepare": "tsdx build",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -45,16 +43,6 @@
   },
   "module": "dist/react-code-blocks.esm.js",
   "devDependencies": {
-    "@storybook/addon-actions": "^5.3.18",
-    "@storybook/addon-console": "^1.2.1",
-    "@storybook/addon-docs": "^5.3.18",
-    "@storybook/addon-info": "^5.3.18",
-    "@storybook/addon-knobs": "^5.3.19",
-    "@storybook/addon-links": "^5.3.18",
-    "@storybook/addon-storysource": "^5.3.18",
-    "@storybook/addon-viewport": "^5.3.18",
-    "@storybook/addons": "^5.3.18",
-    "@storybook/react": "^5.3.18",
     "@types/color": "^3.0.1",
     "@types/enzyme": "^3.10.5",
     "@types/he": "^1.1.1",
